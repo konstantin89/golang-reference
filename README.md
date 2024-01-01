@@ -11,6 +11,8 @@
 [Don’t just check errors, handle them gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)  
 [Online Go compiler](https://goplay.tools/)   
 
+## Interesting repos
+[Finite state machine](https://github.com/cocoonspace/fsm)
 
 ## Commands
 ``` bash
