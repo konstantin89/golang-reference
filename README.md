@@ -3,6 +3,7 @@
 ## Resources
 [Book source code](https://github.com/adonovan/gopl.io/)  
 [Packages in Go](https://www.youtube.com/watch?v=7feel2EWYZI)  
+[Go generics](https://www.youtube.com/watch?v=WpTKqnfp5dY)
 
 [Go tour](https://go.dev/tour/welcome/1)  
 [Go by example](https://gobyexample.com/)  
